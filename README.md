@@ -1,3 +1,7 @@
+# this is my Haiku and codespace
+
+# to shut down the codespace go here
+https://github.com/codespaces
 
 # Haikus for Codespaces
 
